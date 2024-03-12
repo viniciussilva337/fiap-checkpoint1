@@ -1,6 +1,6 @@
-# Ping
+# Checkpoint 1
 
-Aplicação Java com container para exemplo
+Checkpoint 1 da disciplicna Microservice and Web Engineering
 
 ## Pré-requisitos
 
