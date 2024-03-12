@@ -1,4 +1,4 @@
-package br.com.fiap.checkpoint1.controller;
+package br.com.fiap.checkpoint1.config;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.context.annotation.Configuration;
