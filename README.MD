@@ -21,9 +21,10 @@ git clone https://github.com/viniciussilva337/fiap-checkpoint1.git
 
 #### Docker Hub
 
-Repositório: frnndzfiap/fiap-checkpoint1
+Repositório: vinidodocker/fiap-checkpoint1
 
-https://hub.docker.com/r/frnndzfiap/fiap-checkpoint1
+
+https://hub.docker.com/r/vinidodocker/fiap-checkpoint1
 
 #### Docker
 
@@ -32,19 +33,19 @@ https://hub.docker.com/r/frnndzfiap/fiap-checkpoint1
 spring.profiles.active=dev
 
 ```
-docker run -d -p 8080:8080 -e PROFILE=dev frnndzfiap/fiap-checkpoint1
+docker run -d -p 8080:8080 -e PROFILE=dev vinidodocker/fiap-checkpoint1
 ```
 
 spring.profiles.active=stg
 
 ```
-docker run -d -p 8080:8080 -e PROFILE=stg frnndzfiap/fiap-checkpoint1
+docker run -d -p 8080:8080 -e PROFILE=stg vinidodocker/fiap-checkpoint1
 ```
 
 spring.profiles.active=prd
 
 ```
-docker run -d -p 8080:8080 -e PROFILE=prd frnndzfiap/fiap-checkpoint1
+docker run -d -p 8080:8080 -e PROFILE=prd vinidodocker/fiap-checkpoint1
 ```
 
 #### Navegação
@@ -64,5 +65,5 @@ http://localhost:8080/ping
 
 ## Contatos
 
-- Gustavo Fernandez - gustavoffiap@gmail.com
-- Desenvolvedor 2 - desenvolvedor2@email.com
+- Gustavo Fernandez - rm94382
+- Vinicius da silva pires - rm96187
