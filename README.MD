@@ -19,6 +19,11 @@ git clone https://github.com/FrnndzFiap/fiap-checkpoint1.git
 
 ## Execução
 
+#### Docker Hub
+
+Repositório: frnndzfiap/fiap-checkpoint1
+
+https://hub.docker.com/r/frnndzfiap/fiap-checkpoint1
 
 #### Docker
 
