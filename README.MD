@@ -14,7 +14,7 @@ Checkpoint 1 da disciplicna Microservice and Web Engineering
 #### Clone
 
 ```
-git clone https://github.com/FrnndzFiap/fiap-checkpoint1.git
+git clone https://github.com/viniciussilva337/fiap-checkpoint1.git
 ```
 
 ## Execução
